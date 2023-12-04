@@ -28,6 +28,7 @@
   ## Tests
     -npm start dev
   ![Jate](https://github.com/VictorMontelongo/PWA-Text-Editor/assets/82343047/47dc5533-7ea8-4a89-bb5e-25b0c8a7fc04)
+  link to test the JATE https://thawing-brook-68967-af3091ae55bf.herokuapp.com/
 
 
 
