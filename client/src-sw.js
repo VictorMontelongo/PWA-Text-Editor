@@ -28,6 +28,7 @@ warmStrategyCache({
 registerRoute(({ request }) => request.mode === 'navigate', pageCache);
 
 
+
 /*
   TODO:
 
@@ -72,11 +73,11 @@ registerRoute(({ request }) => request.mode === 'navigate', pageCache);
 */
 
 
-const paths = ["style", "script", "worker"];
+// const paths = ["style", "script", "worker"];
 
 // sending the request to the destination
-registerRoute(({ request }) => variableForArrayHere.paths.includes(request.destination),
-  new CLASSNAME_TO_INSTANTIATE_HERE({
+registerRoute(({ request }) => ["style", "script", "worker"].includes(request.destination),
+  new StaleWhileRevalidate({
     cacheName: 'asset-cache',
     plugins: [
       new CacheableResponsePlugin({
