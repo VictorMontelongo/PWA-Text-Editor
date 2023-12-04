@@ -27,7 +27,8 @@
     
   ## Tests
     -npm start dev
-    ![Jate](https://github.com/VictorMontelongo/PWA-Text-Editor/assets/82343047/d1cb45fd-93d9-4a83-bbeb-f5997201ad7e)
+  ![Jate](https://github.com/VictorMontelongo/PWA-Text-Editor/assets/82343047/47dc5533-7ea8-4a89-bb5e-25b0c8a7fc04)
+
 
 
   ## Questions
