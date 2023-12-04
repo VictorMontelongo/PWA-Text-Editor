@@ -27,7 +27,8 @@
     
   ## Tests
     -npm start dev
-    ![JATE](/bootcamp/homework/unit-19/screenshots/Jate.jpg "JATE").
+    ![Jate](https://github.com/VictorMontelongo/PWA-Text-Editor/assets/82343047/d1cb45fd-93d9-4a83-bbeb-f5997201ad7e)
+
 
   ## Questions
     If you have any questions about this project. Please reach me at email@email.com. You can also find my work for this project and others at my GitHub profile [Victor Montelongo](https://github.com/Victor Montelongo) repo(https://github.com/VictorMontelongo/PWA-Text-Editor)
